@@ -9,14 +9,14 @@
   </br>
 
   
-### Projects: 
+### Мои проекты: 
 
 <table width="100%" border='0'>
    <tr> 
      <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/W/wildberries-logo-594D9A4F6F-seeklogo.com.png"></td><td valign="middle">Проект по тестированию поисковой строки интернет-магазина WILDBERRIES <a target="_blank" href="https://github.com/elenapltnkv/wb">WILDBERRIES</a>.</td></tr>
    </tr>
     <tr> 
-     <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/W/wildberries-logo-594D9A4F6F-seeklogo.com.png"></td><td valign="middle">Демопроект автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassa">ЮKassa</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><img src="https://www.ph4.org/_RU/DL/LOGO/u/ukassa.gif"></td><td valign="middle">Демопроект автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassa">ЮKassa</a>.</td></tr>
    </tr>
   </table>
   </br>
