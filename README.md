@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Automation of QA Automation, https://www.linkedin.com/in/елена-самигуллаева-01937852/
+
+### Projects: 
+https://github.com/elenapltnkv/ukassa
+https://github.com/elenapltnkv/wb
+
 <!--
 **elenapltnkv/elenapltnkv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Stanislavs's github stats](https://github-readme-stats.vercel.app/api?username=svasenkov&show_icons=true&theme=radical)
+
