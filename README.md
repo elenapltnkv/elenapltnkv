@@ -1,7 +1,12 @@
-### Hi there 👋
+### Добро пожаловать и привет! :cherry_blossom:
+Меня зовут Елена. С января 2022 года я - инженер по тестированию программного обеспечения.</br>
 
-Automation of QA Automation, https://www.linkedin.com/in/елена-самигуллаева-01937852/
-
+<table width="100%" border='0'>
+   <tr> 
+     <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/G/geekbrains-logo-1A602AF0F3-seeklogo.com.png"></td><td valign="middle">Факультет тестирования ПО <a target="_blank" href="https://gb.ru">GeekBrains</a>.</td></tr>
+   </tr>
+  </table>
+  </br>
 ### Projects: 
 https://github.com/elenapltnkv/ukassa
 https://github.com/elenapltnkv/wb
