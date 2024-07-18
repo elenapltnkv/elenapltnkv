@@ -30,6 +30,12 @@
     <tr> 
      <tr><td width="30%" valign="bottom"><img src="https://www.ph4.org/_RU/DL/LOGO/u/ukassa.gif"></td><td valign="middle">Демопроект автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassa">ЮKassa</a>.</td></tr>
    </tr>
+   <tr> 
+     <tr><td width="30%" valign="bottom"><img src="https://www.ph4.org/_RU/DL/LOGO/u/ukassa.gif"></td><td valign="middle">Рефакторинг демопроекта автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassaRefactor">ЮKassa</a>.</td></tr>
+   </tr>
+   <tr> 
+     <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/I/imgur-logo-CE5908E8E9-seeklogo.com.png"></td><td valign="middle">Демопроект автоматизации тестирования API imgur <a target="_blank" href="https://github.com/elenapltnkv/backend-imgur-project">Imgur</a>.</td></tr>
+   </tr>
   </table>
   </br>
 
