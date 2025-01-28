@@ -25,7 +25,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-     <tr><td width="30%" valign="bottom"><img src="[https://seeklogo.com/images/W/wildberries-logo-594D9A4F6F-seeklogo.com.png](https://static.wikia.nocookie.net/logopedia/images/4/41/Wildberries_2023_Pink.svg/revision/latest/scale-to-width-down/150?cb=20230812173510)"></td><td valign="middle">Проект по тестированию поисковой строки интернет-магазина WILDBERRIES <a target="_blank" href="https://github.com/elenapltnkv/wb">WILDBERRIES</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><img src="https://sun6-22.userapi.com/s/v1/ig2/toepdlFCcERnQss25PzMXYOdnKEPqvY67jN-VjhaYNySM2bc7O1sqi9whMqlvdJ06wRUY89f5ebrCE5pXy6q1y4l.jpg?size=990x990&quality=95&crop=51,27,990,990&ava=1"></td><td valign="middle">Проект по тестированию поисковой строки интернет-магазина WILDBERRIES <a target="_blank" href="https://github.com/elenapltnkv/wb">WILDBERRIES</a>.</td></tr>
    </tr>
     <tr> 
      <tr><td width="30%" valign="bottom"><img src="https://www.ph4.org/_RU/DL/LOGO/u/ukassa.gif"></td><td valign="middle">Демопроект автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassa">ЮKassa</a>.</td></tr>
@@ -34,7 +34,7 @@
      <tr><td width="30%" valign="bottom"><img src="https://www.ph4.org/_RU/DL/LOGO/u/ukassa.gif"></td><td valign="middle">Рефакторинг демопроекта автоматизации тестирования API сервиса для приёма платежей ЮKassa <a target="_blank" href="https://github.com/elenapltnkv/ukassaRefactor">ЮKassa</a>.</td></tr>
    </tr>
    <tr> 
-     <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/I/imgur-logo-CE5908E8E9-seeklogo.com.png"></td><td valign="middle">Демопроект автоматизации тестирования API imgur <a target="_blank" href="https://github.com/elenapltnkv/backend-imgur-project">Imgur</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><img src="https://logotyp.us/file/imgur.svg"></td><td valign="middle">Демопроект автоматизации тестирования API imgur <a target="_blank" href="https://github.com/elenapltnkv/backend-imgur-project">Imgur</a>.</td></tr>
    </tr>
    <tr> 
      <tr><td width="30%" valign="bottom"><img src="https://reqres.in/img/logo.png"></td><td valign="middle">Демопроект автоматизации тестирования API сервиса REQRES с применением okhttp3/retrofit <a target="_blank" href="https://github.com/elenapltnkv/retrofitOkHttpProject">REQRES</a>.</td></tr>
