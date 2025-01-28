@@ -6,7 +6,7 @@
 
 <table width="100%" border='0'>
    <tr> 
-     <tr><td width="30%" valign="bottom"><img src="https://seeklogo.com/images/G/geekbrains-logo-1A602AF0F3-seeklogo.com.png"></td><td valign="middle">Факультет тестирования ПО <a target="_blank" href="https://gb.ru">GeekBrains</a>.</td></tr>
+     <tr><td width="30%" valign="bottom"><img src="https://upload.wikimedia.org/wikipedia/ru/thumb/4/48/Geekbrains_logo.svg/186px-Geekbrains_logo.svg.png?20211012211910"></td><td valign="middle">Факультет тестирования ПО <a target="_blank" href="https://gb.ru">GeekBrains</a>.</td></tr>
    </tr>
   </table>
   </br>
